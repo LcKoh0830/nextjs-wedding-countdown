@@ -19,7 +19,7 @@ export const Header = ({ message }: msgProps) => {
       >
         {message ? message : "WE'RE LAUNCHING SOON"}
       </h1>
-      <p className="mt-8 font-redhat text-rose-500 text-center mx-auto text-2xl">
+      <p className="mt-3 md:mt-8 font-redhat text-rose-500 text-center mx-auto text-xl md:text-2xl">
         🎉Congratulation Kai Lun and Hui Bao🎉
       </p>
     </header>
